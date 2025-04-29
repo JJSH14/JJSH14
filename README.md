@@ -1,4 +1,6 @@
-## Jihad Ishtaya (Lobo) 👨‍💻  
+# Hi there 👋
+
+## Jihad Ishtaya  
 ### Software Engineer | Team Lead | Big Data Enthusiast  
 🎓 Senior Computer Science Student @ An-Najah National University  
 💻 Passionate about full-stack development, distributed systems, and open-source contributions  
@@ -7,15 +9,15 @@
 
 ## 🚀 Featured Projects  
 
-### [LoboREMS](https://github.com/JJSH14/LoboREMS) - Property Management System (Team Lead)  
+### [LoboREMS](https://github.com/JJSH14/real-state-mangmaent) - Property Management System (Team Lead)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%230081CB.svg?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-- Led a team to build a **JavaFX desktop app** for property listing management and role-based workflows.  
+- Led development of a **JavaFX desktop app** for property listing management and role-based workflows.  
 - Engineered secure login/signup flows with Java backend and MySQL integration.  
 - Designed admin dashboards using FXML for dynamic GUI rendering.  
 
 ---
 
-### Twitter Stream Processing Pipeline - Real-Time Analytics (Data Engineer)  
+### [Twitter Stream Processing](https://github.com/Nassar-AlHaj/TSP/tree/jihade) - Real-Time Analytics (Data Engineer)  
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=flat&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)  
 - Built a Kafka-Spark pipeline to process **1k+ real-time tweets/sec** for sentiment analysis.  
 - Optimized Kafka producers with partitioning, batching, and retry logic in Scala.  
@@ -23,14 +25,14 @@
 
 ---
 
-### [Sign Connect](https://jihade-portfolio.onrender.com) - Sign Language App (UI/UX Designer)  
+### [Sign Connect](https://www.figma.com/proto/57iA5yVQ0vyUo4GKStGrud/Untitled?node-id=147-406&t=cMDpoSO59WMLOYmY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=147%3A406) - Sign Language App (UI/UX Designer)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
-- Designed Figma prototypes for an accessibility-focused sign-language translation app.  
+- Designed interactive Figma prototypes for an accessibility-focused sign-language translation app.  
 - Conducted usability tests to refine intuitive navigation and WCAG compliance.  
 
 ---
 
-### Orphan Support System - Database Design (Team Lead)  
+### [Orphan Support System](https://drive.google.com/file/d/1JN2SdkOcQUm14IO2Bbc1HiWCTyp3XisU/view) - Database Design (Team Lead)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=flat&logo=diagrams.net&logoColor=white)  
 - Architected a relational database to manage donations, requests, and orphan records.  
 - Created ERD diagrams and optimized SQL queries for high-performance CRUD operations.  
